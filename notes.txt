@@ -1,0 +1,26 @@
+1 -> COMMANDS:
+    TO INSTALL NEST GLOBALLY:
+        npm install -g @nestjs/cli
+
+    TO CREATE NEW NEST PROJECT:
+        nest new <PROJECT NAME>
+
+    TO CREATE NEW MODUILE:
+        nest g mo <SPECIFY THE PATH WHERE TO CREATE>
+
+    TO CREATE NEW CONTROLLER:
+        nest g co <SPECIFY THE PATH WHERE TO CREATE> <SPECIFY THE CONTROLLER NAME> --no-spec "TO AVOID THE TEST FILES"
+
+2 -> VALIDATION IN NEST JS:
+
+3 -> ADDIGN DATA TO THE DATABASE USING TYPE ORM AND POSTGRES
+    Install @nestjs/typeorm, typeorm and pg
+    Also in download and install postgres and pgadmin
+    
+4 -> CREATE AN ENTITY FILE TO SPECIFY THE DATA SHOULD SHOULD BE PART OF DATABASE
+
+5 -> CREATING REPOSITORY FOR THE DATABASE:
+
+
+    
+    
